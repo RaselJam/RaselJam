@@ -59,15 +59,13 @@ At this moment im Learning TypeScrpit
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
-      
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
         <span><strong>C#</strong></span><br><br><br>
         <img height="64px" src="https://pin.it/7gANlz1">
       </td>
