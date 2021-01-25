@@ -67,7 +67,7 @@ At this moment im Learning TypeScrpit
     <tr valign="top">
         <td width="25%" align="center">
         <span><strong>C#</strong></span><br><br><br>
-        <img height="64px" src="https://pin.it/7gANlz1">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
     </tr>
   </tbody>
