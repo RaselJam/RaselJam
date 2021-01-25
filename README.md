@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.comXXX-27XXX-27/master/Hi.gif" width="30px">, I'm [Raul!](https://github.comXXX-27) !!
+## Hey , I'm [Rasel!](https://github.com/RaselJam) !!
 
 </h2>
 
@@ -6,18 +6,18 @@
 
 ## About Me
 
-Hey My Name is Raul, I
+Hello there! Im Rasel Jam a passionate self-taught Full Stack Web Developer.<br/>
+Ofcourse allways Learning more!  😊
+
+At this moment im Learning TypeScrpit
 
 
 ## Coding Profiles
 
-<a href="https://www.codechef.com/users/XXX">
+<a href="https://www.codechef.com/users/raseljamheidar">
   <img  alt="XXX's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-<a href="https://codeforces.com/profile/XXXX_">
-  <img  alt="XXX's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
 
 <hr/>
 
@@ -45,11 +45,7 @@ Hey My Name is Raul, I
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
+      
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
         </span><br><br><br>
@@ -65,21 +61,15 @@ Hey My Name is Raul, I
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-      </td>
+      
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
       </td>
+      
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>C#</strong></span><br><br><br>
+        <img height="64px" src="https://pin.it/7gANlz1">
       </td>
     </tr>
   </tbody>
@@ -137,4 +127,4 @@ Hey My Name is Raul, I
 
 
 ---
-⭐️ From [XXX Patel](https://github.com/) 
+
