@@ -45,7 +45,7 @@ At this moment im Learning TypeScrpit
       </td>
     </tr>
     <tr valign="top">
-      
+      <tr>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
         </span><br><br><br>
