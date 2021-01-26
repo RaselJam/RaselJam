@@ -98,7 +98,7 @@ At this moment im Learning TypeScrpit
  
  
 
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/Rasel12000123">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
