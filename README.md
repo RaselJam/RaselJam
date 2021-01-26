@@ -12,11 +12,6 @@ Ofcourse allways Learning more!  😊
 At this moment im Learning TypeScrpit
 
 
-## Coding Profiles
-
-<a href="https://www.codechef.com/users/raseljamheidar">
-  <img  alt="XXX's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
 
 <hr/>
