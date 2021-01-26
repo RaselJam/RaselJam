@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello there! Im Rasel Jam a passionate self-taught Full Stack Web Developer.<br/>
+Hello there! Im Rasel Jam a passionate self-taught Full Stack Junior Web Developer.<br/>
 Ofcourse allways Learning more!  😊
 
 At this moment im Learning TypeScrpit
@@ -84,7 +84,7 @@ At this moment im Learning TypeScrpit
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/inXXX-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/rasel-jam-6b3343205/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
@@ -94,13 +94,9 @@ At this moment im Learning TypeScrpit
 
 
   <br/>
-  <a href="https://www.facebook.com/>
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
  
-  <a href="https://www.instagram.comXXX._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
+ 
+ 
 
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
