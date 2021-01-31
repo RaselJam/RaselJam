@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello there! Im Rasel Jam a passionate  Full Stack Junior Web Developer.<br/>
+Hello there! Im Rasel Jam a passionate  Full Stack Web Developer.<br/>
 Ofcourse allways Learning more! 
 
 
