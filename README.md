@@ -6,10 +6,10 @@
 
 ## About Me
 
-Hello there! Im Rasel Jam a passionate self-taught Full Stack Junior Web Developer.<br/>
-Ofcourse allways Learning more!  😊
+Hello there! Im Rasel Jam a passionate  Full Stack Junior Web Developer.<br/>
+Ofcourse allways Learning more! 
 
-At this moment im Learning TypeScrpit
+
 
 
 
