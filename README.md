@@ -84,13 +84,11 @@ Ofcourse allways Learning more!
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/rasel-jam-6b3343205/">
+  <a href="https://www.linkedin.com/in/rasul-jam-h/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
+  
 
 
   <br/>
@@ -98,7 +96,7 @@ Ofcourse allways Learning more!
  
  
 
-  <a href="https://twitter.com/Rasel12000123">
+  <a href="https://twitter.com/RezaianJason">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
@@ -106,7 +104,7 @@ Ofcourse allways Learning more!
 
 <div align = "center">
 
-![Raul's Github Status](https://github-readme-stats.vercel.app/api?username=XXXX&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Raul's Github Status](https://github-readme-stats.vercel.app/api?username=RaselJam&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
