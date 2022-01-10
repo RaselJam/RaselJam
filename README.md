@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello there! Im Rasel Jam a passionate  Full Stack Web Developer.<br/>
+Hello there! Im Raúl Jam; a passionate  Full Stack Web Developer.<br/>
 Ofcourse allways Learning more! 
 
 
@@ -74,7 +74,7 @@ Ofcourse allways Learning more!
   
   <!-- https://img.shields.io/badge/Linkedin-XXX Patel-blue&?style=social&logo=linkedin -->
 
-  <!-- https://img.shields.io/badge/Github-XXX%20Patel-black&?style=social&logo=Github -->
+  <!-- https://github.com/RaselJam -->
 
   <!-- https://img.shields.io/badge/Facebook-XXX%20Patel-darkblue&?style=social&logo=Facebook -->
 
@@ -84,7 +84,7 @@ Ofcourse allways Learning more!
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/rasul-jam-h/">
+  <a href="https://www.linkedin.com/in/raul-jam-h/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
